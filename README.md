@@ -115,6 +115,28 @@ In the terminal, navigate to directory where you want to install this applicatio
 git clone git@github.com:prpercy/LendingGenie.git
 ```
 
+You will require Kaggle API credentials to run the jupyter lab notebook.
+
+How to Use Kaggle - Public API
+[Kaggle](https://www.kaggle.com/docs/api)
+
+Kaggle - opendatasets
+[Kaggle](https://pypi.org/project/opendatasets/)
+
+```python
+> pip install opendatasets --upgrade
+
+```
+
+```python
+> pip install kaggle
+
+```
+In order to use the Kaggle’s public API, you must first authenticate using an API token. From the site header, click on your user profile picture, then on “My Account” from the dropdown menu. This will take you to your account settings at [KaggleAccount](https://www.kaggle.com/account). Scroll down to the section of the page labelled API:
+
+To create a new token, click on the “Create New API Token” button. This will download a fresh authentication token onto your machine.
+
+Once you obtain your Kaggle credentials and download the associated 'kaggle.json', proceed to usage below.
 
 ---
 ## **Usage**
@@ -131,6 +153,10 @@ The file you will run is:
 lending_genie.ipynb
 
 ```
+Once it starts to run, you will be asked to enter your credentials-
+
+![Credentials](images/request_credentials.png)
+
 
 If running the code generates error:
 ```python
