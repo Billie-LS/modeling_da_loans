@@ -9,9 +9,9 @@ Objective - Using historical large data, employ supervised machine learning mode
 
 Product - 
 
-* > Our product is a cloud-based lending-as-a-service (LaaS) solution that can be offered to financial institutions as an API.
-* > The product uses Python-libraries including pandas and sci-kit learn, among others, to clean, process, and fit models based on the desired risk parameters to accurately predict customers fit for lending opportunities. 
-* > The product is deployed using Amazon Web Services (AWS). Specifically, SageMaker in order for clients to be able to run the model on the cloud. 
+>* Our product is a cloud-based lending-as-a-service (LaaS) solution that can be offered to financial institutions as an API.
+>* The product uses Python-libraries including pandas and sci-kit learn, among others, to clean, process, and fit models based on the desired risk parameters to accurately predict customers fit for lending opportunities. 
+>* The product is deployed using Amazon Web Services (AWS). Specifically, SageMaker in order for clients to be able to run the model on the cloud. 
 ___
 
 ### **Analysis Summary**
