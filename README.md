@@ -164,9 +164,9 @@ Once it starts to run, you will be asked to enter your credentials-
 
 If running the code generates error:
 ```python
-FileExistsError: [Errno 17] File exists: 'Resources_models'
+FileExistsError: [Errno 17] File exists: 'models_trained'
 ```
-You will need to delete directory 'Resources_models'
+You will need to delete directory 'models_trained'
 ___
 
 ## **Version control**
