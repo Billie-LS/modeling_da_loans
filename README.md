@@ -223,6 +223,9 @@ ___
 
 ### **Additional references and or resources utilized**
 
+EDA — Exploratory Data Analysis
+[SearchMedium](https://medium.com/analytics-vidhya/eda-exploratory-data-analysis-d0fb1fd40cb9)
+
 splitting data
 [MungingData](https://mungingdata.com/python/split-csv-write-chunk-pandas/)
 
@@ -309,6 +312,15 @@ Git Large File Storage
 
 git lfs is not a command Mac OS
 [Stack Overflow](https://stackoverflow.com/questions/58796472/git-lfs-is-not-a-command-mac-os)
+
+Histograms and Skewed Data
+[Winder](https://winder.ai/histograms-and-skewed-data/)
+
+Creating Histograms using Pandas
+[Mode](https://mode.com/example-gallery/python_histogram/)
+
+Credit Risk Modelling [EDA & Classification]
+[RStudio](https://rpubs.com/nonebean/566793)
 
 Kaggle - Lending Club data
 [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
