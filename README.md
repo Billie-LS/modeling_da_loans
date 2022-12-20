@@ -181,8 +181,7 @@ https://github.com/prpercy/LendingGenie
 
 
 ___
-## **Contributors**
-
+![contribute1](images/contribute1.png)
 ### **Authors**
 
 Conyea, Will
@@ -205,6 +204,8 @@ Loki 'billie' Skylizard
     [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
     [@GitHub](https://github.com/Billie-LS)
 
+
+![contribute1](images/contribute2.png)
 
 ### **BootCamp lead instructor**
 
