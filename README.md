@@ -2,7 +2,10 @@
 # **August 2022 Cohort**
 ![image1](images/image1.png)
 ## *Project 2 - LendingGenie*
-Objective - Using historical loan large data, employ supervised machine learning model optimization to anlayze the features of potential borrowers in order to better predict risk level; i.e. will loan be paid back in full vs default and/or written off.  Given the large data available with extensive features, the model should be able to more accurately provide predictions using more than tradition credit reports and limited features.  
+
+Scenario - Credit risk analysis and loan grant decision are two of the most important operations for financial institutions. By leveraging the extensive large data of historical loans performance, we need to train a model to accurately predict future outcomes.
+
+Objective - Using historical large data, employ supervised machine learning model optimization to anlayze the features of potential borrowers in order to better predict risk level; i.e. will loan be paid back in full vs default and/or written off.  Given the large data available with extensive features, the model should be able to more accurately and efficiently provide predictions using more than traditional credit reports and limited features.  
 
 Product - 
 
