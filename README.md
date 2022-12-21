@@ -16,8 +16,8 @@ ___
 
 ### **Analysis Summary**
 
->* Data has 151 features. After data clean up and preparation number of features were reduced to 111.
->* Post PCA analysis, number of features were further reduced to 62 (while maintaining 95% explained variance ratio)
+>* Excluding the target/'labels' column, raw data provided 150 features. After preprocessing, data clean up, and preparation features count reduced to 110.
+>* Following use of StandardScaler with Principal Component Analysis (PCA), total features reduced to 61 with 95% explained variance ratio.
 
 Following is the summary of results:
 
