@@ -323,6 +323,18 @@ Creating Histograms using Pandas
 Credit Risk Modelling [EDA & Classification]
 [RStudio](https://rpubs.com/nonebean/566793)
 
+
+
+Save and Load Machine Learning Models in Python with scikit-learn
+[machinelearningmastery](https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/)
+
+Quick Hacks To Save Machine Learning Model using Pickle and Joblib
+[AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2021/08/quick-hacks-to-save-machine-learning-model-using-pickle-and-joblib/)
+
+
+
+
+
 Kaggle - Lending Club data
 [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 
