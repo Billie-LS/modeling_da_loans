@@ -14,7 +14,7 @@ Product -
 >* The product is deployed using Amazon Web Services (AWS). Specifically, SageMaker in order for clients to be able to run the model on the cloud. 
 ___
 
-### **Analysis Summary**
+### **Train (75%) and Test (25%) Summary Analysis**
 
 >* Excluding the target/'labels' column, raw data provided 150 features. After preprocessing, data clean up, and preparation features count reduced to 110.
 >* Following use of StandardScaler with Principal Component Analysis (PCA), total features reduced to 61 with 95% explained variance ratio.
@@ -22,6 +22,28 @@ ___
 Following is the summary of results:
 
 ![results](images/results.png)
+___
+
+### **Metrics for trained models applied to alternate/virgin dataset, i.e. 'bank2'**
+
+>* Excluding the target/'labels' column, raw data provided 150 features. After preprocessing, data clean up, and preparation features count reduced to 110.
+>* Following use of StandardScaler with Principal Component Analysis (PCA), total features reduced to 61 with 95% explained variance ratio.
+
+RandomUnderSampler, StandardScaler, PCA, LinearSVC classifier model:
+
+![results](images/image2.png)
+
+StandardScaler, PCA, LinearSVC classifier model:
+
+![results](images/image3.png)
+
+StandardScaler, PCA, LogisticRegression model:
+
+![results](images/image4.png)
+
+StandardScaler, PCA, hyupertuning XGBClassifier model:
+
+![results](images/image5.png)
 ___
 
 ## **Technologies**
