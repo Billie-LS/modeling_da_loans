@@ -204,6 +204,7 @@ https://github.com/prpercy/LendingGenie
 
 ___
 ![contribute1](images/contribute1.png)
+
 ### **Authors**
 
 Conyea, Will
@@ -227,8 +228,10 @@ Loki 'billie' Skylizard
     [@GitHub](https://github.com/Billie-LS)
 
 
+Additions
 ![contribute1](images/contribute2.png)
-
+Commits
+![contribute3](images/contribute3.png)
 ### **BootCamp lead instructor**
 
 Vinicio De Sola
